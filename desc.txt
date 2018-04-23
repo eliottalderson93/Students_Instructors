@@ -1,0 +1,3 @@
+Part 1: Create a set of objects and then output specific variables
+Part 2: given a dictionary, output capitalized strings that are linked 
+to ints
